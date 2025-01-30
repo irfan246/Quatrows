@@ -63,11 +63,11 @@ flutter_launcher_icons:
     background_color: "#1B9AAA"
   windows:
     generate: true
-    image_path: "assets/icon/icon_desktop.png"
+    image_path: "assets/icon/icon.png"
     icon_size: 48 
   macos:
     generate: true
-    image_path: "assets/icon/icon_desktop.png"
+    image_path: "assets/icon/icon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
